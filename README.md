@@ -1,1 +1,1 @@
-# Buy-Til-You-Die-Predict-Customer-Lifetime-Value---jourdeness
+# Buy-Til-You-Die-Predict-Customer-Lifetime-Value-jourdeness
